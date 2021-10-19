@@ -1,4 +1,4 @@
-# EPTM_IRC <img src="https://visitor-badge.glitch.me/badge" />
+# EPTM_IRC <img src="https://visitor-badge.glitch.me/badge?page_id=SeenKid.IP_LOCAL_IRC" />
 
 IRC for EPTM classrooms (local chat)
 
