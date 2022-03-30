@@ -5,7 +5,7 @@ server_host = socket.gethostname()
 ip = socket.gethostbyname(server_host)
 sport = 8080
 
-print('Made by SeenKid#0001')
+print('Made by SeenKid#1010')
 print('Ton ip est : ',ip)
 server_host = input('IP de l\'ami :')
 name = input('Nom de l\'ami: ')
